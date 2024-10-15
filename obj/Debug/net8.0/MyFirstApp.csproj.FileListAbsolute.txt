@@ -1,0 +1,14 @@
+/Users/ravshanjonzakirov/MyFirstApp/bin/Debug/net8.0/MyFirstApp
+/Users/ravshanjonzakirov/MyFirstApp/bin/Debug/net8.0/MyFirstApp.deps.json
+/Users/ravshanjonzakirov/MyFirstApp/bin/Debug/net8.0/MyFirstApp.runtimeconfig.json
+/Users/ravshanjonzakirov/MyFirstApp/bin/Debug/net8.0/MyFirstApp.dll
+/Users/ravshanjonzakirov/MyFirstApp/bin/Debug/net8.0/MyFirstApp.pdb
+/Users/ravshanjonzakirov/MyFirstApp/obj/Debug/net8.0/MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ravshanjonzakirov/MyFirstApp/obj/Debug/net8.0/MyFirstApp.AssemblyInfoInputs.cache
+/Users/ravshanjonzakirov/MyFirstApp/obj/Debug/net8.0/MyFirstApp.AssemblyInfo.cs
+/Users/ravshanjonzakirov/MyFirstApp/obj/Debug/net8.0/MyFirstApp.csproj.CoreCompileInputs.cache
+/Users/ravshanjonzakirov/MyFirstApp/obj/Debug/net8.0/MyFirstApp.dll
+/Users/ravshanjonzakirov/MyFirstApp/obj/Debug/net8.0/refint/MyFirstApp.dll
+/Users/ravshanjonzakirov/MyFirstApp/obj/Debug/net8.0/MyFirstApp.pdb
+/Users/ravshanjonzakirov/MyFirstApp/obj/Debug/net8.0/MyFirstApp.genruntimeconfig.cache
+/Users/ravshanjonzakirov/MyFirstApp/obj/Debug/net8.0/ref/MyFirstApp.dll
